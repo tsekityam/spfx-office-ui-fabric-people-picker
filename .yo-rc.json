@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-office-ui-fabric-people-picker",
+    "libraryId": "328d6cc0-dce0-4a9b-95f0-26f7debb3782",
+    "environment": "spo"
+  }
+}
